@@ -15,6 +15,7 @@ public class Crop extends JLabel{
 	public void setIcon(String picture){
 		icon = new ImageIcon(picture);//ªÒ»°Õº∆¨
 		setIcon(icon);
+		System.out.println("0000000000000000");
 	}
 	
 }

@@ -29,6 +29,7 @@ public class BackgroundPanel extends JPanel{
 		
 		
 		System.out.println("我的游戏。。。。。第一个。。。");
+		System.out.println("我的游戏。。。。。第二个、、、");
 	}
 		
 	
