@@ -26,6 +26,12 @@ public class BackgroundPanel extends JPanel{
 			g.drawImage(image, 0, 0, width, height, this);
 		}
 		super.paintComponent(g);
+		
+		
+		System.out.println("ÎÒµÄÓÎÏ·¡£¡£¡£¡£¡£");
 	}
 		
+	
+	
+	
 }
