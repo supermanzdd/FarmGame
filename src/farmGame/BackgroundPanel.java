@@ -28,7 +28,7 @@ public class BackgroundPanel extends JPanel{
 		super.paintComponent(g);
 		
 		
-		System.out.println("我的游戏。。。。。");
+		System.out.println("我的游戏。。。。。第一个。。。");
 	}
 		
 	
